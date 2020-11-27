@@ -9,7 +9,7 @@ pygame.init()
 winHeight = 600
 winWidth = 700
 win=pygame.display.set_mode((winWidth,winHeight))
-pygame.display.set_caption("Hangman Game!")
+pygame.display.set_caption("Hangman Game! BY SHOURYA PANT")
 
 ##################################################
 ### Initializing The COLOURS that will be used in the PROJECT###
